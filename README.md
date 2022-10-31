@@ -1,6 +1,6 @@
 # Basic Flexbox Divs
 
-### View the [live project here.](https://kirstendarling.github.io/basic-flexbox-divs/)
+### View the [live project here.](https://kirstendarling.github.io/Basic-Flexbox-Divs/)
 
 ### Screenshot
 
